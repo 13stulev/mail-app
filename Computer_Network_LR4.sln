@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Computer_Network_LR4", "Mail\Computer_Network_LR4.csproj", "{03A2FD6C-63FC-421B-A571-770442237B04}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03A2FD6C-63FC-421B-A571-770442237B04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03A2FD6C-63FC-421B-A571-770442237B04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03A2FD6C-63FC-421B-A571-770442237B04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03A2FD6C-63FC-421B-A571-770442237B04}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2005088-1F21-44D1-9DF0-797DD8E290A9}
+	EndGlobalSection
+EndGlobal
